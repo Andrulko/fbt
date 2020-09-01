@@ -1,0 +1,3 @@
+files:
+  - source: /demo-app/translation_input.json
+    translation: /demo-app/translations/%two_letters_code%.json
