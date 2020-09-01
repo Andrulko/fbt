@@ -46,7 +46,7 @@
             "types": [],
             "translations": [
                 {
-                    "translation": "Unknown",
+                    "translation": "לא ידוע",
                     "variations": []
                 }
             ]
@@ -56,7 +56,7 @@
             "types": [],
             "translations": [
                 {
-                    "translation": "Male",
+                    "translation": "זכר",
                     "variations": []
                 }
             ]
@@ -66,7 +66,7 @@
             "types": [],
             "translations": [
                 {
-                    "translation": "Female",
+                    "translation": "נקבה",
                     "variations": []
                 }
             ]
@@ -76,7 +76,7 @@
             "types": [],
             "translations": [
                 {
-                    "translation": "name",
+                    "translation": "שם",
                     "variations": []
                 }
             ]
@@ -96,7 +96,7 @@
             "types": [],
             "translations": [
                 {
-                    "translation": "Gender:",
+                    "translation": "מין:",
                     "variations": []
                 }
             ]
